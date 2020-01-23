@@ -4,6 +4,7 @@ def my_collect
   yield do |name| 
     while name.reverse("")
   end
+end
   
   
 
